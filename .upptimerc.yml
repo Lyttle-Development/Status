@@ -17,8 +17,18 @@ workflowSchedule:
   updates: "0 3 * * *"
 
 sites:
+  # LyttleDevelopment Services
   - name: "LyttleDevelopment Website"
     url: "https://www.lyttledevelopment.com/"
+    method: GET
+  - name: "LyttleDevelopment Documentation"
+    url: "https://docs.lyttledevelopment.com/"
+    method: GET
+  - name: "LyttleDevelopment Cluster Dashboard"
+    url: $SITE_URL__LYTTLEDEVELOPMENT_CLUSTER_DASHBOARD
+    method: GET
+  - name: "LyttleDevelopment Portainer"
+    url: $SITE_URL__LYTTLEDEVELOPMENT_PORTAINER
     method: GET
   - name: "Lyttle Node: SE-003-FRGL"
     check: tcp-ping
@@ -36,6 +46,26 @@ sites:
     check: tcp-ping
     url: "__se-009-frsb__.lyttle.dev"
     port: 80
+
+  # Clients
+  ## ThatsATim
+  - name: "Client: ThatsATim - The Doors Quarterly"
+    url: "https://thedoorsquarterly.com/"
+    method: GET
+  - name: "Client: ThatsATim - Kitchen of Insanity"
+    url: "https://kitchenofinsanity.be/"
+    method: GET
+  - name: "Client: ThatsATim - Kleine Stapjes, Grote Droom"
+    url: "https://kleine-stapjes-grote-droom.be/"
+    method: GET
+
+  ## Grephic
+  - name: "Client: Grephic - Website"
+    url: "https://grephic.be/"
+    method: GET
+  - name: "Client: Grephic - Hanna Vanderhaeghen"
+    url: "https://hannahvanderhaeghen.com/"
+    method: GET
 
 status-website:
   name: "LyttleDevelopment Status"
