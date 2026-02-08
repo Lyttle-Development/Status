@@ -1,54 +1,55 @@
-owner: Lyttle-Developmen
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
+owner: Lyttle-Development
 repo: Status
 
 assignees:
   - Stualyttle
 
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "0 23 * * *"
+  graphs: "0 0 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  updates: "0 3 * * *"
+
 sites:
   - name: LyttleDevelopment Website
     url: https://www.lyttledevelopment.com/
     method: GET
+
   - name: Lyttle Node: SE-003-FRGL
-    check: "tcp-ping"
+    check: tcp-ping
     url: __se-003-frgl__.lyttle.dev
     port: 80
   - name: Lyttle Node: SE-005-CABH
-    check: "tcp-ping"
+    check: tcp-ping
     url: __se-005-cabh__.lyttle.dev
     port: 80
   - name: Lyttle Node: SE-008-PLWS
-    check: "tcp-ping"
+    check: tcp-ping
     url: __se-008-plws__.lyttle.dev
     port: 80
   - name: Lyttle Node: SE-009-FRSB
-    check: "tcp-ping"
+    check: tcp-ping
     url: __se-009-frsb__.lyttle.dev
     port: 80
 
 status-website:
-  theme: night
-  themeUrl: https://status.lyttledevelopment.com/theme.css
-  logoUrl: https://status.lyttledevelopment.com/logo.svg
-  favicon: https://status.lyttledevelopment.com/favicon.png
-  faviconSvg: https://status.lyttledevelopment.com/logo.svg
-  cname: status.lyttledevelopment.com
   name: LyttleDevelopment Status
   introTitle: "LyttleDevelopment Status"
   introMessage: "Here you can find the status of our services. If you have any questions, please contact us."
+  cname: status.lyttledevelopment.com
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  theme: night
+  themeUrl: https://status.lyttledevelopment.com/theme.css
+  logoUrl: https://status.lyttledevelopment.com/logo.svg
+  favicon: https://status.lyttledevelopment.com/favicon.png
+  faviconSvg: https://status.lyttledevelopment.com/favicon.svg
