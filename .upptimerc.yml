@@ -1,11 +1,11 @@
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-owner: Lyttle-Development
-repo: Status
+owner: "Lyttle-Development"
+repo: "Status"
 
 assignees:
-  - Stualyttle
+  - "Stualyttle"
 
 workflowSchedule:
   uptime: "*/5 * * * *"
@@ -17,39 +17,38 @@ workflowSchedule:
   updates: "0 3 * * *"
 
 sites:
-  - name: LyttleDevelopment Website
-    url: https://www.lyttledevelopment.com/
+  - name: "LyttleDevelopment Website"
+    url: "https://www.lyttledevelopment.com/"
     method: GET
-
-  - name: Lyttle Node: SE-003-FRGL
+  - name: "Lyttle Node: SE-003-FRGL"
     check: tcp-ping
-    url: __se-003-frgl__.lyttle.dev
+    url: "__se-003-frgl__.lyttle.dev"
     port: 80
-  - name: Lyttle Node: SE-005-CABH
+  - name: "Lyttle Node: SE-005-CABH"
     check: tcp-ping
-    url: __se-005-cabh__.lyttle.dev
+    url: "__se-005-cabh__.lyttle.dev"
     port: 80
-  - name: Lyttle Node: SE-008-PLWS
+  - name: "Lyttle Node: SE-008-PLWS"
     check: tcp-ping
-    url: __se-008-plws__.lyttle.dev
+    url: "__se-008-plws__.lyttle.dev"
     port: 80
-  - name: Lyttle Node: SE-009-FRSB
+  - name: "Lyttle Node: SE-009-FRSB"
     check: tcp-ping
-    url: __se-009-frsb__.lyttle.dev
+    url: "__se-009-frsb__.lyttle.dev"
     port: 80
 
 status-website:
-  name: LyttleDevelopment Status
+  name: "LyttleDevelopment Status"
   introTitle: "LyttleDevelopment Status"
   introMessage: "Here you can find the status of our services. If you have any questions, please contact us."
-  cname: status.lyttledevelopment.com
+  cname: "status.lyttledevelopment.com"
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: "Status"
+      href: "/"
+    - title: "GitHub"
+      href: "https://github.com/$OWNER/$REPO"
   theme: night
-  themeUrl: https://status.lyttledevelopment.com/theme.css
-  logoUrl: https://status.lyttledevelopment.com/logo.svg
-  favicon: https://status.lyttledevelopment.com/favicon.png
-  faviconSvg: https://status.lyttledevelopment.com/favicon.svg
+  themeUrl: "https://status.lyttledevelopment.com/theme.css"
+  logoUrl: "https://status.lyttledevelopment.com/logo.svg"
+  favicon: "https://status.lyttledevelopment.com/favicon.png"
+  faviconSvg: "https://status.lyttledevelopment.com/favicon.svg"
