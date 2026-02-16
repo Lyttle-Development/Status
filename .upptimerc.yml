@@ -82,3 +82,14 @@ status-website:
   logoUrl: "https://status.lyttledevelopment.com/logo.svg"
   favicon: "https://status.lyttledevelopment.com/favicon.png"
   faviconSvg: "https://status.lyttledevelopment.com/favicon.svg"
+
+skipDeleteIssues: true
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
