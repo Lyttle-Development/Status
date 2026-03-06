@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hannahvanderhaeghen.com.ico",
     "slug": "client-grephic-hanna-vanderhaeghen",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.78%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 695,
     "timeDay": 500,
     "timeWeek": 655,
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 80
     }
   }
 ]
