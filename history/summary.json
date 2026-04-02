@@ -4,18 +4,19 @@
     "url": "https://www.lyttledevelopment.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lyttledevelopment.com.ico",
     "slug": "lyttle-development-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 917,
-    "timeDay": 638,
-    "timeWeek": 602,
-    "timeMonth": 723,
-    "timeYear": 917,
+    "time": 908,
+    "timeDay": 513,
+    "timeWeek": 575,
+    "timeMonth": 712,
+    "timeYear": 908,
     "dailyMinutesDown": {
+      "2026-04-02": 1,
       "2026-02-16": 58
     }
   },
@@ -24,45 +25,49 @@
     "url": "https://docs.lyttledevelopment.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.lyttledevelopment.com.ico",
     "slug": "lyttle-development-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 693,
-    "timeWeek": 665,
-    "timeMonth": 600,
-    "timeYear": 553,
-    "dailyMinutesDown": {}
+    "time": 550,
+    "timeDay": 532,
+    "timeWeek": 628,
+    "timeMonth": 593,
+    "timeYear": 550,
+    "dailyMinutesDown": {
+      "2026-04-02": 1
+    }
   },
   {
     "name": "LyttleDevelopment Cluster Dashboard",
     "url": "$SITE_URL__LYTTLEDEVELOPMENT_CLUSTER_DASHBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-development-cluster-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 585,
-    "timeWeek": 629,
-    "timeMonth": 778,
-    "timeYear": 738,
-    "dailyMinutesDown": {}
+    "time": 731,
+    "timeDay": 467,
+    "timeWeek": 594,
+    "timeMonth": 764,
+    "timeYear": 731,
+    "dailyMinutesDown": {
+      "2026-04-02": 1
+    }
   },
   {
     "name": "LyttleDevelopment Portainer",
     "url": "$SITE_URL__LYTTLEDEVELOPMENT_PORTAINER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-development-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +76,18 @@
     "timeWeek": 763,
     "timeMonth": 891,
     "timeYear": 866,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Lyttle Node: SE-003-FRGL",
     "url": "__se-003-frgl__.lyttle.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-node-se-003-frgl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +96,18 @@
     "timeWeek": 110,
     "timeMonth": 132,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Lyttle Node: SE-005-CABH",
     "url": "__se-005-cabh__.lyttle.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-node-se-005-cabh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +116,18 @@
     "timeWeek": 128,
     "timeMonth": 146,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Lyttle Node: SE-008-PLWS",
     "url": "__se-008-plws__.lyttle.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-node-se-008-plws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +136,18 @@
     "timeWeek": 143,
     "timeMonth": 138,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Lyttle Node: SE-009-FRSB",
     "url": "__se-009-frsb__.lyttle.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lyttle-node-se-009-frsb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +156,18 @@
     "timeWeek": 103,
     "timeMonth": 131,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Client: ThatsATim - The Doors Quarterly",
     "url": "https://thedoorsquarterly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thedoorsquarterly.com.ico",
     "slug": "client-thats-a-tim-the-doors-quarterly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +176,18 @@
     "timeWeek": 796,
     "timeMonth": 826,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Client: ThatsATim - Kitchen of Insanity",
     "url": "https://kitchenofinsanity.be/",
     "icon": "https://icons.duckduckgo.com/ip3/kitchenofinsanity.be.ico",
     "slug": "client-thats-a-tim-kitchen-of-insanity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,61 +196,68 @@
     "timeWeek": 679,
     "timeMonth": 960,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Client: ThatsATim - Kleine Stapjes, Grote Droom",
     "url": "https://kleine-stapjes-grote-droom.be/",
     "icon": "https://icons.duckduckgo.com/ip3/kleine-stapjes-grote-droom.be.ico",
     "slug": "client-thats-a-tim-kleine-stapjes-grote-droom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 484,
-    "timeWeek": 457,
-    "timeMonth": 498,
-    "timeYear": 503,
-    "dailyMinutesDown": {}
+    "time": 500,
+    "timeDay": 407,
+    "timeWeek": 441,
+    "timeMonth": 493,
+    "timeYear": 500,
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Client: Grephic - Website",
     "url": "https://grephic.be/",
     "icon": "https://icons.duckduckgo.com/ip3/grephic.be.ico",
     "slug": "client-grephic-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 485,
-    "timeWeek": 537,
-    "timeMonth": 728,
-    "timeYear": 705,
-    "dailyMinutesDown": {}
+    "time": 707,
+    "timeDay": 639,
+    "timeWeek": 569,
+    "timeMonth": 730,
+    "timeYear": 707,
+    "dailyMinutesDown": {
+      "2026-04-02": 0
+    }
   },
   {
     "name": "Client: Grephic - Hanna Vanderhaeghen",
     "url": "https://hannahvanderhaeghen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hannahvanderhaeghen.com.ico",
     "slug": "client-grephic-hanna-vanderhaeghen",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.78%",
-    "time": 741,
-    "timeDay": 692,
-    "timeWeek": 639,
-    "timeMonth": 765,
-    "timeYear": 741,
+    "uptimeYear": "99.79%",
+    "time": 734,
+    "timeDay": 503,
+    "timeWeek": 598,
+    "timeMonth": 752,
+    "timeYear": 734,
     "dailyMinutesDown": {
+      "2026-04-02": 0,
       "2026-03-06": 163
     }
   }
