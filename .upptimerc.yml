@@ -33,10 +33,6 @@ sites:
     check: tcp-ping
     url: "__se-008-plws__.lyttle.dev"
     port: 80
-  - name: "Lyttle Node: SE-009-FRSB"
-    check: tcp-ping
-    url: "__se-009-frsb__.lyttle.dev"
-    port: 80
 
   # Clients
   ## ThatsATim
