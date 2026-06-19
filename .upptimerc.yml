@@ -54,6 +54,11 @@ sites:
     url: "https://hannahvanderhaeghen.com/"
     method: GET
 
+  ## Mealz On Wheelz
+  - name: "Client: Mealz On Wheelz - Website"
+    url: "https://www.mealzonwheelz.be/"
+    method: GET
+
 status-website:
   name: "LyttleDevelopment Status"
   introTitle: "LyttleDevelopment Status"
